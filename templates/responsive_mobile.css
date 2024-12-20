@@ -131,7 +131,7 @@
     .box-topic-news img {
         margin: 1px;
         width: 100%;
-        height: 100%;
+        height: auto;
         border-radius: 17px;
     }
 
